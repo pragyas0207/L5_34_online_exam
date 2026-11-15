@@ -1,0 +1,6 @@
+Unable to create directory C:\Users\HP\AppData\Local\pylint\pylint\Cache
+Unable to create file C:\Users\HP\AppData\Local\pylint\pylint\Cache\online_exam_1.stats: [Errno 2] No such file or directory: 'C:\\Users\\HP\\AppData\\Local\\pylint\\pylint\\Cache\\online_exam_1.stats'
+
+------------------------------------
+Your code has been rated at 10.00/10
+
